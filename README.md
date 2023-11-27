@@ -48,9 +48,12 @@ Increase in poverty among the elderly population from 2019 to 2023
 
 ## Data sources
 
-To show the increase in the elderly population in the US over the past 50 years, I'll be using the Decennial Census of Population, 1900 to 2000; 2010 Census Summary File 1, and 2020 Census Demographic and Housing Characteristics File
+(1) To show the increase in the elderly population in the US over the past 50 years, I'll be extracting data from table 1(b) and Figure 2 of the US Census Bureau's [Census Brief 2020: The Older Population](https://www2.census.gov/library/publications/decennial/2020/census-briefs/c2020br-07.pdf).
 
-Data for the current and projected chronic disease burden for the elderly population was taken from a [table1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/table/T1/) of [Projecting the chronic disease burden among the adult population in the United States using a multi-state population model (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/#:~:text=Most%20individuals%20with%20at%20least,of%2060%20to%2079%20years.), a paper authored by John P. Ansah and Chi-Tsun Chiu for NCBI.
+(2) Data for the current and projected chronic disease burden for the elderly population was taken from a [table1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/table/T1/) of [Projecting the chronic disease burden among the adult population in the United States using a multi-state population model (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/#:~:text=Most%20individuals%20with%20at%20least,of%2060%20to%2079%20years.), a paper authored by John P. Ansah and Chi-Tsun Chiu for NCBI.
+
+(3) Data for healthcare costs of people aged 65 years and older was extracted from NCBI's paper on [Medical Spending of the US Elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6680320/#:~:text=In%20the%20last%2012%20months,cent%20of%20aggregate%20medical%20spending.).
+This will inform some of my discussion around the economic burden on the elderly population as they lose most of the control of their lives and manage one or mor echronic diseases.
 
 ## Method and Medium
 I will use Shorthand to build this project, and will be presenting from it for the final project presentation.
